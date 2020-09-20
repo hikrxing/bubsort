@@ -1,0 +1,48 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2020-09-20 08:14:52
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem sc-status sc-win32-status sc-substatus x-session x-fullpath
+2020-09-20 08:14:52 ::1 - ::1 21 ControlChannelOpened - - 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 21 USER anonymous 331 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 21 PASS User@ 230 0 0 937311b2-20c6-418b-86de-f20635e357a3 /
+2020-09-20 08:14:52 ::1 - ::1 21 opts utf8+on 200 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 21 syst - 215 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 21 site help 214 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 21 PWD - 257 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 21 noop - 200 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 21 CWD / 250 0 0 937311b2-20c6-418b-86de-f20635e357a3 /
+2020-09-20 08:14:52 ::1 - ::1 21 TYPE A 200 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 21 EPSV - 229 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 1044 DataChannelOpened - - 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 1044 DataChannelClosed - - 0 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:14:52 ::1 - ::1 21 LIST - 226 0 0 937311b2-20c6-418b-86de-f20635e357a3 /
+2020-09-20 08:16:59 ::1 - ::1 21 ControlChannelClosed - - 258 0 937311b2-20c6-418b-86de-f20635e357a3 -
+2020-09-20 08:23:33 ::1 - ::1 21 ControlChannelOpened - - 0 0 8232b734-7be5-43ae-9a2c-846da7dda933 -
+2020-09-20 08:23:33 ::1 - ::1 21 AUTH TLS 534 5 31 8232b734-7be5-43ae-9a2c-846da7dda933 -
+2020-09-20 08:23:33 ::1 - ::1 21 AUTH SSL 534 5 31 8232b734-7be5-43ae-9a2c-846da7dda933 -
+2020-09-20 08:23:36 ::1 - ::1 21 USER ftpuser1 331 0 0 8232b734-7be5-43ae-9a2c-846da7dda933 -
+2020-09-20 08:23:36 ::1 - ::1 21 PASS *** 530 1326 41 8232b734-7be5-43ae-9a2c-846da7dda933 -
+2020-09-20 08:23:36 ::1 - ::1 21 ControlChannelClosed - - 0 0 8232b734-7be5-43ae-9a2c-846da7dda933 -
+2020-09-20 08:23:41 ::1 - ::1 21 ControlChannelOpened - - 0 0 2abba56d-a63d-4f32-a8ba-ca1fff760b7d -
+2020-09-20 08:23:41 ::1 - ::1 21 AUTH TLS 534 5 31 2abba56d-a63d-4f32-a8ba-ca1fff760b7d -
+2020-09-20 08:23:41 ::1 - ::1 21 AUTH SSL 534 5 31 2abba56d-a63d-4f32-a8ba-ca1fff760b7d -
+2020-09-20 08:23:41 ::1 - ::1 21 USER ftpuser1 331 0 0 2abba56d-a63d-4f32-a8ba-ca1fff760b7d -
+2020-09-20 08:23:41 ::1 - ::1 21 PASS *** 530 1326 41 2abba56d-a63d-4f32-a8ba-ca1fff760b7d -
+2020-09-20 08:23:41 ::1 - ::1 21 ControlChannelClosed - - 0 0 2abba56d-a63d-4f32-a8ba-ca1fff760b7d -
+2020-09-20 08:23:46 ::1 - ::1 21 ControlChannelOpened - - 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 - ::1 21 AUTH TLS 534 5 31 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 - ::1 21 AUTH SSL 534 5 31 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 - ::1 21 USER ftpuser1 331 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 21 PASS *** 230 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 /
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 21 SYST - 215 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 21 FEAT - 211 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 21 OPTS UTF8+ON 200 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 21 PWD - 257 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 21 TYPE I 200 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 21 EPSV - 229 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 1066 DataChannelOpened - - 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 1066 DataChannelClosed - - 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 21 LIST - 226 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 /
+2020-09-20 08:23:46 ::1 W7DEV-PC\ftpuser1 ::1 21 MDTM iisstart.htm 213 0 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 /iisstart.htm
+2020-09-20 08:24:01 ::1 W7DEV-PC\ftpuser1 ::1 21 MKD 新目錄 550 5 2 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 /新目錄
+2020-09-20 08:26:09 ::1 W7DEV-PC\ftpuser1 ::1 21 ControlChannelClosed - - 258 0 b7cfad3b-2ea9-4859-a871-a3dbb71733e5 -
